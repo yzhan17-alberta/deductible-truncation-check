@@ -1,5 +1,5 @@
 # Yiming Zhan
-# https://github.com/<username>/deductible-truncation-check
+#https://github.com/yzhan17-alberta/deductible-truncation-check
 
 import numpy as np
 import pandas as pd
